@@ -2,3 +2,5 @@ pandas
 matplotlib
 geopandas
 seaborn
+networkx
+mxltend
