@@ -1,1 +1,2 @@
 src/*
+!src/FCod_filtered.csv
